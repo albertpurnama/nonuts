@@ -1,9 +1,25 @@
 # Personal/sensitive files
 MEMORY.md
 memory/
+*/MEMORY.md
+*/memory/
 
-# Output files (can regenerate)
-skills/*/output/
+# Root symlinks (point to ren/)
+/AGENTS.md
+/SOUL.md
+/USER.md
+/TOOLS.md
+/IDENTITY.md
+/HEARTBEAT.md
+/canvas
+/skills
+/research
+
+# Output files
+*.pdf
+*.html
+proposal-*.json
+preview-*.png
 
 # OS files
 .DS_Store
