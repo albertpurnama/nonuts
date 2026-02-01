@@ -1,0 +1,22 @@
+{
+  "nomor": "KQ-019/QUO-KBI/I/2026",
+  "tanggal": "Samboja, 29 Januari 2026",
+  "kepada_nama": "PT. Wiganti Karya Abadi",
+  "kepada": "Up. Bpk. Suwito",
+  "lokasi_proyek": "Jembatan Tambang, Puruk Cahu, Kalimantan Tengah",
+  "alat": "Bored Pile Machine",
+  "items": [
+    {
+      "no": 1,
+      "deskripsi": "Pengeboran Bored Pile Ø1,2M",
+      "sub_items": [
+        {"deskripsi": "a. Pengeboran Tanah", "qty": 1290, "satuan": "m¹", "harga_satuan": 800000},
+        {"deskripsi": "b. Pengeboran Batu", "qty": 1, "satuan": "m¹", "harga_satuan": 2400000, "rate_only": true}
+      ]
+    },
+    {"no": 2, "deskripsi": "Jasa Pengecoran", "qty": 1458.96, "satuan": "m³", "harga_satuan": 150000},
+    {"no": 3, "deskripsi": "Jasa Pembesian", "qty": 1, "satuan": "Kg", "harga_satuan": 3000, "rate_only": true},
+    {"no": 4, "deskripsi": "Persiapan", "qty": 1, "satuan": "Ls", "harga_satuan": 100000000},
+    {"no": 5, "deskripsi": "Mobilisasi/Demobilisasi", "qty": 1, "satuan": "Ls", "harga_satuan": 250000000}
+  ]
+}

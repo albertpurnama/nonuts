@@ -1,0 +1,9 @@
+# Personal/sensitive files
+MEMORY.md
+memory/
+
+# Output files (can regenerate)
+skills/*/output/
+
+# OS files
+.DS_Store
